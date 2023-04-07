@@ -1,0 +1,22 @@
+.content {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+}
+
+.tiles {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.subtext {
+    text-align: center;
+}
+
+.portrait , .landscape , .square{
+    height:400px;
+}
